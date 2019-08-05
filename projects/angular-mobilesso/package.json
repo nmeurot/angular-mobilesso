@@ -1,0 +1,30 @@
+{
+  "name": "@aeroline_1025/angular-mobilesso",
+  "version": "1.1.0",
+  "description": "Manage the oidc, as Authorization Code mode, for MobileSSO",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmeurot/angular-mobilesso.git"
+  },
+  "keywords": [
+    "oidc",
+    "AuthorizationCode",
+    "angular",
+    "MobileSSO"
+  ],
+  "author": "Nicolas MEUROT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmeurot/angular-mobilesso/issues"
+  },
+  "homepage": "https://github.com/nmeurot/angular-mobilesso#readme",
+  "dependencies": {
+    "jsrsasign": "^8.0.12"
+  },
+  "peerDependencies": {
+    "@angular/common": ">=6.0.0",
+    "@angular/core": ">=6.0.0",
+    "rxjs": "^6.2.2",
+    "rxjs-compat": "^6.2.2"
+  }
+}
