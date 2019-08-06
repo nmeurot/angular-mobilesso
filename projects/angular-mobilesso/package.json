@@ -1,6 +1,6 @@
 {
   "name": "@aeroline_1025/angular-mobilesso",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Manage the oidc, as Authorization Code mode, for MobileSSO",
   "repository": {
     "type": "git",

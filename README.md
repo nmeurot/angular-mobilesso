@@ -28,9 +28,9 @@ Use the environment configuration file to pass the mandatory paramters to use th
 *This is an example :*
 ```
 export const environment = {
-	issuer:  'https://v3.airbus.com/FedBroker',
-	scope:  'SCO_E760_MOBILE-I',
-	clientId:  'CLI_E760_MOBILE-I',
+	issuer:  '<URL Issuer (FedBroker)>',
+	scope:  'SCO_<Project Scope>',
+	clientId:  'CLI_<Project Client>',
 	redirectUrl:  '<URL to redirect by MobileSSO>/',
 	autoRefreshAccessToken:  true
 }
